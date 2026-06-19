@@ -4,65 +4,43 @@
 
 ## 📌 Overview
 
-The **Finance Analysis Dashboard** is an interactive Power BI project designed to transform raw financial data into meaningful and actionable insights. Through dynamic visualizations, KPI tracking, and detailed transaction analysis, the dashboard provides a comprehensive view of financial performance, spending patterns, and revenue trends.
+The **Finance Analysis Dashboard** is a Power BI project developed to analyze financial data and transform it into meaningful insights through interactive visualizations. The dashboard provides a clear view of financial performance, revenue trends, expense distribution, and transaction details.
 
-This project demonstrates the use of Power BI, DAX, Power Query, and data modeling techniques to create an intuitive and visually appealing analytics solution.
+## 🎯 Purpose
 
----
+I created this project to strengthen my Power BI and data analytics skills by working with financial data and building an interactive dashboard. The goal was to transform raw data into actionable insights using data modeling, DAX calculations, and effective visualizations.
 
 ## 🚀 Dashboard Highlights
 
 * 📊 Interactive Finance Analytics Dashboard
-* 💰 Revenue, Expense, and Profit Monitoring
+* 💰 Revenue, Expense, and Profit Tracking
 * 📈 Financial Trend Analysis
 * 🏷️ Category-wise Financial Breakdown
-* 🔍 Dynamic Filtering and Slicer Functionality
+* 🔍 Dynamic Filtering and Slicers
 * 📋 Detailed Transaction Analysis
-* ⚡ Clean and User-Friendly Interface
-* 📌 Data-Driven Financial Insights
-
----
-
-## 📊 Key Insights
-
-* Monitor key financial KPIs through interactive visualizations.
-* Analyze revenue and expense performance across different categories.
-* Identify financial trends and patterns over time.
-* Explore transaction-level details for deeper analysis.
-* Compare financial metrics to uncover actionable insights.
-* Gain a clear understanding of overall financial performance.
-
----
+* ⚡ Clean and User-Friendly Design
 
 ## 🛠️ Tools & Technologies
 
 * Power BI
 * Power Query
-* DAX (Data Analysis Expressions)
+* DAX
 * Data Modeling
-* Data Visualization
-
----
 
 ## 📄 Dashboard Pages
 
 ### 📈 Finance Overview
 
-Provides a high-level summary of financial performance through KPI cards, trend analysis, and category-level insights, enabling quick assessment of business finances.
+Provides a summary of key financial metrics, trends, and category-level insights.
 
 ### 📋 Transaction Analysis
 
-Offers detailed transaction-level reporting with interactive filtering capabilities, allowing users to explore financial activities and spending behavior in greater depth.
-
----
+Offers detailed transaction-level reporting with interactive filtering capabilities.
 
 ## 🔗 Live Dashboard
-[https://app.powerbi.com/reportEmbed?reportId=82084750-339e-415f-9de1-0bf726711e2d&autoAuth=true&ctid=56c1d497-700b-49cf-8f8d-3dd6b20d522f]
 
----
+**Power BI Service:** [https://app.powerbi.com/reportEmbed?reportId=82084750-339e-415f-9de1-0bf726711e2d&autoAuth=true&ctid=56c1d497-700b-49cf-8f8d-3dd6b20d522f]
 
 ## ⭐ Support
 
-If you found this project useful or interesting, please consider giving this repository a **Star ⭐**.
-
-Your support motivates me to build and share more Data Analytics and Power BI projects.
+If you found this project useful, please consider giving it a **Star ⭐** on GitHub.
